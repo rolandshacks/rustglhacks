@@ -1,0 +1,7 @@
+# Notes
+
+Get the GLSL to SPIR-V compiler:
+https://github.com/KhronosGroup/glslang
+
+Use the compiler:
+glslangValidator -G -o fragment.spv fragment.frag
